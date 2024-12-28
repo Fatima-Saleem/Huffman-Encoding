@@ -1,1 +1,2 @@
-# University-Resource-Management-System
+# Huffman Encoding
+Huffman Encoding is a lossless file compression method that can reduce file size by up to 65%. It uses a Heap Search Tree where characters are stored as terminals, and edges represent bit-based encodings, ensuring unique encodings for each character through a greedy approach. This project enhances this by incorporating a Linked List for sequential data storage, maintaining the ability to fully reconstruct the original file from the compressed version.
